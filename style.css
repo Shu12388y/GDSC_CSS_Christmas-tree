@@ -92,11 +92,11 @@ html,body{
     left: 34%;
 }
 .lower{
-    width: 3rem;
+   width: 3rem;
     height: 6rem;
     background-color: #845a32;
     position: absolute;
-    top: 81%;
+    top: 83%;
     left: 46%;
 }
 .circle1{
@@ -152,7 +152,7 @@ html,body{
     background-color: #e654f8;
     border-radius: 50%;
     position: absolute;
-    top: 79%;
+    top: 81%;
     left: 33%
 }
 .circle8{
@@ -160,6 +160,6 @@ html,body{
     background-color: #e654f8;
     border-radius: 50%;
     position: absolute;
-    top: 79%;
+    top: 81%;
     left: 59%;
 }
